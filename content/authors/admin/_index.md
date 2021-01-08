@@ -1,6 +1,7 @@
 ---
 title: Natsuki Kataoka
 role: iOS/Android/API Engineer
+avatar_filename: screen-shot-2021-01-08-at-23.54.46.png
 bio: ""
 interests:
   - Solving problems
