@@ -1,6 +1,6 @@
 ---
 title: Natsuki Kataoka
-role: Student at Waseda University
+role: iOS/Android/API Engineer
 bio: ""
 interests:
   - Solving problems Business Intelligence Artificial Intelligence Computer
@@ -16,8 +16,8 @@ social:
     icon_pack: fab
     link: https://github.com/717natsuki
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Waseda University
+    url: https://www.waseda.jp/
 education:
   courses:
     - course: PhD in Artificial Intelligence
