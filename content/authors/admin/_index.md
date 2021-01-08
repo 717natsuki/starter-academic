@@ -20,16 +20,11 @@ organizations:
     url: https://www.waseda.jp/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Department of Mechanical Engineering, School of Creative Science and
+        Engineering
+      institution: Waseda University
+      year: 2018
+email: natsuki.kataoka.2000@gmail.com
 superuser: true
 highlight_name: false
 ---
