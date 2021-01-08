@@ -53,4 +53,12 @@ highlight_name: false
 - 全員が主体的に楽しく仕事をするような世の中を作りたい。
 という３つの大きな目標を掲げています。
 
+I am enrolled in the Department of Mechanical Engineering, School of Creative Science and Engineering, at Waseda University.
+
+While in high school, I worked as a marketing and programming intern at AdGlobal360 India Pvt. Ltd, a subsidiary of Hakuhodo Inc. in New Delhi, India. During the summer break of my first year at Waseda, I was selected as a finalist for the Techprenour DOJO, a long-term engineering training project. In the winter I was selected as a scholarship recipient for the Silicon Valley Scholarship sponsored by Pegasus Tech Ventures, a pioneer in CVC 4.0 type funds. I was also the organizer of a university-sanctioned programming club, which has grown from three members to over 100 members.
+
+In the spring of his sophomore year, I started working at Forstart Inc. as a web backend developer for "RanQ" using golang and clean architecture. Also in summer, I have been working on the front-end and back-end of "Andu" native app at Wyn Inc. using Flutter. I'm also in charge of the overall development of "Arcle" in collaboration with a student group at Musashino Art University.
+
+I am self-taught in programming and has personally managing more than 10 iOS/Android apps, including the community app "Gakucha", which has been in development since December 2020 and has been installed by thousands of users in 3 weeks.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
