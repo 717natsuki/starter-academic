@@ -3,8 +3,10 @@ title: Natsuki Kataoka
 role: iOS/Android/API Engineer
 bio: ""
 interests:
-  - Solving problems Business Intelligence Artificial Intelligence Computer
-    Science
+  - Solving problems
+  - Business Intelligence
+  - Artificial Intelligence
+  - Computer Science
 social:
   - icon: envelope
     icon_pack: fas
