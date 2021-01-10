@@ -1,6 +1,6 @@
 ---
 widget: author
-widget_id: Author
+widget_id: author
 headless: true
 weight: 10
 title: Author
