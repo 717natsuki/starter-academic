@@ -3,7 +3,7 @@ widget: author
 widget_id: author
 headless: true
 weight: 10
-title: Author
+title: Authors
 active: true
 design:
   columns: "2"
