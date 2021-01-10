@@ -1,8 +1,9 @@
 ---
 widget: author
-widget_id: author
+widget_id: Author
 headless: true
 weight: 10
+title: Author
 active: true
 design:
   columns: "2"
